@@ -40,6 +40,7 @@
     * [安卓自定义View进阶 - 特殊形状控件事件处理方案](https://github.com/GcsSloop/AndroidNote/blob/master/CustomView/Advance/%5B17%5Dtouch-matrix-region.md)  
     * [安卓自定义View进阶 - 多点触控详解](https://github.com/GcsSloop/AndroidNote/blob/master/CustomView/Advance/%5B18%5Dmulti-touch.md)
     * [安卓自定义View进阶 - 手势检测(GestureDetector)](https://github.com/GcsSloop/AndroidNote/blob/master/CustomView/Advance/%5B19%5Dgesture-detector.md)
+    * [安卓自定义View进阶 - 缩放手势检测(ScaleGestureDetector)](http://www.gcssloop.com/customview/scalegesturedetector)
 
 
 * [ViewSupport - 自定义View工具包](https://github.com/GcsSloop/ViewSupport)
@@ -53,6 +54,11 @@
 * [雕虫晓技(三) 通用圆角布局全解析](http://www.gcssloop.com/gebug/rclayout)
 * [雕虫晓技(四) 搭建私有Maven仓库(带容灾备份)](http://www.gcssloop.com/gebug/maven-private)
 * [雕虫晓技(五) 网格分页布局源码解析(上) (付费)](https://xiaozhuanlan.com/topic/5841730926)
+* [雕虫晓技(六) 网格分页布局源码解析(下) (付费)](https://xiaozhuanlan.com/topic/1456397082)
+* [雕虫晓技(七) 用旧Android手机做远程摄像头](http://www.gcssloop.com/gebug/internet-ip-webcam)
+* [雕虫晓技(八) Android与数据流的斗争](http://www.gcssloop.com/gebug/android-stream)
+* [雕虫晓技(九) Netty与私有协议框架](http://www.gcssloop.com/gebug/netty-private-protocol)
+* [雕虫晓技(十) Android超简单气泡效果](http://www.gcssloop.com/gebug/bubble-sample)
 
 ******
 
@@ -104,6 +110,7 @@
 
 ## 开源库
 
+* [arc-seekbar - 弧形SeekBar](https://github.com/GcsSloop/arc-seekbar)
 * [encrypt - 加密工具包](https://github.com/GcsSloop/encrypt)
 * [rclayout - 通用圆角布局](https://github.com/GcsSloop/rclayout)
 * [FontsManager - 快速替换字体](https://github.com/GcsSloop/FontsManager)
